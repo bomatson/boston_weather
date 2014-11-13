@@ -45,6 +45,7 @@ GEM
       faraday
       hashie
       multi_json
+    geocoder (1.2.6)
     hashie (3.3.1)
     hike (1.2.3)
     i18n (0.6.11)
@@ -127,6 +128,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
   forecast_io
+  geocoder
   jbuilder (~> 2.0)
   jquery-rails
   pry-rails

@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'pry-rails'
 gem 'forecast_io'
+gem 'geocoder'
